@@ -1,4 +1,4 @@
-#pragma once //probando
+#pragma once //probando hola
 #include <fstream>
 #include <iostream>
 
