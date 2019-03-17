@@ -1,0 +1,6 @@
+﻿  Sudoku.cpp
+c:\users\thelo\onedrive\escritorio\internet explorer\uni\programasao\c++\sudoku\sudoku\sudoku\sudoku.h(11): warning C4227: se ha utilizado un anacronismo: se omiten los calificadores de la referencia
+c:\users\thelo\onedrive\escritorio\internet explorer\uni\programasao\c++\sudoku\sudoku\sudoku\sudoku.h(13): warning C4227: se ha utilizado un anacronismo: se omiten los calificadores de la referencia
+c:\users\thelo\onedrive\escritorio\internet explorer\uni\programasao\c++\sudoku\sudoku\sudoku\sudoku.cpp(83): warning C4227: se ha utilizado un anacronismo: se omiten los calificadores de la referencia
+c:\users\thelo\onedrive\escritorio\internet explorer\uni\programasao\c++\sudoku\sudoku\sudoku\sudoku.cpp(125): warning C4227: se ha utilizado un anacronismo: se omiten los calificadores de la referencia
+  sudoku.vcxproj -> C:\Users\thelo\OneDrive\Escritorio\Internet Explorer\uni\programasao\c++\sudoku\sudoku\Debug\sudoku.exe
