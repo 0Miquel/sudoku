@@ -1,4 +1,4 @@
-#pragma once
+#pragma once te mamaste
 #include <fstream>
 #include <iostream>
 
